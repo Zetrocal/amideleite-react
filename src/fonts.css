@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'Caramel';
+    src: url('../fonts/Caramel-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Cabin';
+    src: url('../fonts/Cabin-Italic.ttf');
+}
+
+@font-face {
+    font-family: 'Cinzel Decorative';
+    src: url('../fonts/CinzelDecorative-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Alatsi';
+    src: url('../fonts/Alatsi-Regular.ttf');
+}
