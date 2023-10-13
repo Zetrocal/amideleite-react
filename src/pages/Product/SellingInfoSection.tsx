@@ -7,7 +7,7 @@ import { TOffer } from "../../data/products/ProductsInfo";
 import { TRootState } from "../../store";
 
 //let domain = "http://localhost:5173"
-let domain = "https://www.amideleite.com"
+let domain = "http://www.amideleite.com"
 export default function SellingInfoSection() {
 	let location = useLocation();
 	let cakeMessageRef = useRef<HTMLInputElement>(null);
